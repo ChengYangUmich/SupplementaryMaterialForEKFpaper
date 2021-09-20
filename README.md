@@ -6,7 +6,7 @@
 <sup>b</sup> Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Avenue, EECS Building, Ann Arbor, MI 48109, US  
 <sup>c</sup> Primodal Inc., 145 Rue Aberdeen, Quebec City, Quebec, CA
 
-<img align="center" src="Graphical Abstract.png" width="800">
+<img align="center" src="GraphicalAbstract.png" width="800">
 
 **ABSTRACT**
 Grey-box models, which combine the explanatory power of first-principle models with the ability to detect subtle patterns from data, are
